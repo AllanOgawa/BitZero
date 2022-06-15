@@ -5,7 +5,7 @@ Projeto: BitZero
 
 Curso de Engenharia de Software 2°Semestre - UNICESUMAR
 
-### ALAN MINORU | ALLAN OGAA | HEITOR BRANDOLIN | MICHELLE FREGNANI | RODRIGO BRANCO NASCIMENTO
+### ALAN MINORU | ALLAN OGAWA | HEITOR BRANDOLIN | MICHELLE FREGNANI | RODRIGO BRANCO NASCIMENTO
 
 ## Informações:
 BitZero foi uma atividade resignada aos alunos para aprendizagem em manipulação e lógica na Pseudo-Linguagem algorítmica Portugol, e o VisualG(v3.5) como IDE.
