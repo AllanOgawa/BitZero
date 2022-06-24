@@ -10,7 +10,9 @@ Projeto: BitZero
 ### ALAN MINORU | ALLAN OGAWA | HEITOR BRANDOLIN | MICHELLE FREGNANI | RODRIGO BRANCO NASCIMENTO
 
 ## Informações:
-BitZero foi uma atividade resignada aos alunos para aprendizagem em manipulação e lógica na Pseudo-Linguagem algorítmica Portugol, e o VisualG(v3.5) como IDE.
+BitZero foi uma atividade resignada aos alunos para aprendizagem em manipulação e lógica.
+
+Pseudo-Linguagem Portugol - IDE: VisualG(v3.5)
 
 ## Arquivos:
 - BITZERO.alg , algoritmo feito em Portugol
