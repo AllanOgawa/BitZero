@@ -4,6 +4,7 @@ Projeto de Manipulação de Informações da Empresa BitZero - 2021
 Curso de Engenharia de Software 2°Semestre - UNICESUMAR
 
 Algoritmos e Lógica de Programação I
+
 Projeto: BitZero
 
 ### ALAN MINORU | ALLAN OGAWA | HEITOR BRANDOLIN | MICHELLE FREGNANI | RODRIGO BRANCO NASCIMENTO
